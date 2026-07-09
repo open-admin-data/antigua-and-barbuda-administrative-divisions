@@ -1,0 +1,45 @@
+{
+  "id": "AG08L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Potters Village",
+    "en": "Potters Village",
+    "slug": "potters-village-ag08l003"
+  },
+  "code": {
+    "id": "AG08L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG08",
+    "level": 1,
+    "name": {
+      "local": "Saint John",
+      "en": "Saint John",
+      "slug": "saint-john-ag08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.083",
+    "lon": "-61.817"
+  },
+  "metadata": {},
+  "source": {}
+}

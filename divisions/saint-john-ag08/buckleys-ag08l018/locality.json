@@ -1,0 +1,45 @@
+{
+  "id": "AG08L018",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Buckleys",
+    "en": "Buckleys",
+    "slug": "buckleys-ag08l018"
+  },
+  "code": {
+    "id": "AG08L018",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG08",
+    "level": 1,
+    "name": {
+      "local": "Saint John",
+      "en": "Saint John",
+      "slug": "saint-john-ag08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.072",
+    "lon": "-61.813"
+  },
+  "metadata": {},
+  "source": {}
+}

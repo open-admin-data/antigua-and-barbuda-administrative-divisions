@@ -1,0 +1,632 @@
+[
+  {
+    "id": "AG04L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Betty's Hope",
+      "en": "Betty's Hope",
+      "slug": "betty-s-hope-ag04l004"
+    },
+    "code": {
+      "id": "AG04L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.081",
+      "lon": "-61.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cochranes",
+      "en": "Cochranes",
+      "slug": "cochranes-ag04l001"
+    },
+    "code": {
+      "id": "AG04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.083",
+      "lon": "-61.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Coconut Hall",
+      "en": "Coconut Hall",
+      "slug": "coconut-hall-ag04l012"
+    },
+    "code": {
+      "id": "AG04L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.11",
+      "lon": "-61.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Collins",
+      "en": "Collins",
+      "slug": "collins-ag04l009"
+    },
+    "code": {
+      "id": "AG04L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.076",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Delaps",
+      "en": "Delaps",
+      "slug": "delaps-ag04l007"
+    },
+    "code": {
+      "id": "AG04L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.06",
+      "lon": "-61.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gilberts",
+      "en": "Gilberts",
+      "slug": "gilberts-ag04l008"
+    },
+    "code": {
+      "id": "AG04L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.089",
+      "lon": "-61.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Little Duers",
+      "en": "Little Duers",
+      "slug": "little-duers-ag04l010"
+    },
+    "code": {
+      "id": "AG04L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.069",
+      "lon": "-61.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Long Lane",
+      "en": "Long Lane",
+      "slug": "long-lane-ag04l014"
+    },
+    "code": {
+      "id": "AG04L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.067",
+      "lon": "-61.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mercers Creek",
+      "en": "Mercers Creek",
+      "slug": "mercers-creek-ag04l005"
+    },
+    "code": {
+      "id": "AG04L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.094",
+      "lon": "-61.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pares",
+      "en": "Pares",
+      "slug": "pares-ag04l013"
+    },
+    "code": {
+      "id": "AG04L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.085",
+      "lon": "-61.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Parrys",
+      "en": "Parrys",
+      "slug": "parrys-ag04l003"
+    },
+    "code": {
+      "id": "AG04L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.074",
+      "lon": "-61.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Seatons",
+      "en": "Seatons",
+      "slug": "seatons-ag04l002"
+    },
+    "code": {
+      "id": "AG04L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.094",
+      "lon": "-61.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Diamond",
+      "en": "The Diamond",
+      "slug": "the-diamond-ag04l006"
+    },
+    "code": {
+      "id": "AG04L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.078",
+      "lon": "-61.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Garden",
+      "en": "The Garden",
+      "slug": "the-garden-ag04l011"
+    },
+    "code": {
+      "id": "AG04L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.071",
+      "lon": "-61.743"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

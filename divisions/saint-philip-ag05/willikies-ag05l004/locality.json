@@ -1,0 +1,45 @@
+{
+  "id": "AG05L004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Willikies",
+    "en": "Willikies",
+    "slug": "willikies-ag05l004"
+  },
+  "code": {
+    "id": "AG05L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG05",
+    "level": 1,
+    "name": {
+      "local": "Saint Philip",
+      "en": "Saint Philip",
+      "slug": "saint-philip-ag05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.087",
+    "lon": "-61.709"
+  },
+  "metadata": {},
+  "source": {}
+}

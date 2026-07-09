@@ -1,0 +1,45 @@
+{
+  "id": "AG08L019",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Belmont",
+    "en": "Belmont",
+    "slug": "belmont-ag08l019"
+  },
+  "code": {
+    "id": "AG08L019",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG08",
+    "level": 1,
+    "name": {
+      "local": "Saint John",
+      "en": "Saint John",
+      "slug": "saint-john-ag08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.1",
+    "lon": "-61.826"
+  },
+  "metadata": {},
+  "source": {}
+}

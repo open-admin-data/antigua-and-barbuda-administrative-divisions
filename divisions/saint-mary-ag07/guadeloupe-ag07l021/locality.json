@@ -1,0 +1,45 @@
+{
+  "id": "AG07L021",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Guadeloupe",
+    "en": "Guadeloupe",
+    "slug": "guadeloupe-ag07l021"
+  },
+  "code": {
+    "id": "AG07L021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG07",
+    "level": 1,
+    "name": {
+      "local": "Saint Mary",
+      "en": "Saint Mary",
+      "slug": "saint-mary-ag07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.996",
+    "lon": "-62.068"
+  },
+  "metadata": {},
+  "source": {}
+}

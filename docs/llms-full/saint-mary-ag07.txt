@@ -1,0 +1,129 @@
+# Saint Mary — Antigua and Barbuda Administrative Divisions
+
+> 24 localitys
+> Code: AG07
+> Coordinates: 17.049, -61.858
+> Last updated: 2026-07-09. License: CC-BY-4.0.
+
+## Localitys
+
+### Bendals
+
+Code: AG07L012, Coordinates: 17.068, -61.836
+
+
+### Bishops
+
+Code: AG07L009, Coordinates: 17.045, -61.816
+
+
+### Blubber Valley
+
+Code: AG07L006, Coordinates: 17.067, -61.864
+
+
+### Bolands
+
+Code: AG07L004, Coordinates: 17.066, -61.875
+
+
+### Cades Bay
+
+Code: AG07L001, Coordinates: 17.017, -61.843
+
+
+### Cedar Hall
+
+Code: AG07L016, Coordinates: 17.077, -61.858
+
+
+### Claremont
+
+Code: AG07L023, Coordinates: 17.025, -61.836
+
+
+### Crab Hill
+
+Code: AG07L017, Coordinates: 17.034, -61.891
+
+
+### Creekside
+
+Code: AG07L011, Coordinates: 17.079, -61.856
+
+
+### Ebenezer
+
+Code: AG07L024, Coordinates: 17.083, -61.859
+
+
+### Emanuel
+
+Code: AG07L022, Coordinates: 17.072, -61.837
+
+
+### Guadeloupe
+
+Code: AG07L021, Coordinates: 16.996, -62.068
+
+
+### Harveys
+
+Code: AG07L008, Coordinates: 17.033, -61.867
+
+
+### Jennings
+
+Code: AG07L014, Coordinates: 17.078, -61.866
+
+
+### John Hughes
+
+Code: AG07L007, Coordinates: 17.043, -61.822
+
+
+### Johnsons Point
+
+Code: AG07L010, Coordinates: 17.03, -61.889
+
+
+### Jolly Harbour
+
+Code: AG07L015, Coordinates: 17.066, -61.886
+
+
+### New Division
+
+Code: AG07L005, Coordinates: 17.089, -61.877
+
+
+### Old Road
+
+Code: AG07L003, Coordinates: 17.017, -61.833
+
+
+### Orange Valley Mill
+
+Code: AG07L002, Coordinates: 17.026, -61.875
+
+
+### Saint Lukes
+
+Code: AG07L020, Coordinates: 17.079, -61.834
+
+
+### Sawcolts
+
+Code: AG07L019, Coordinates: 17.05, -61.82
+
+
+### Urlings
+
+Code: AG07L013, Coordinates: 17.027, -61.876
+
+
+### Yorks
+
+Code: AG07L018, Coordinates: 17.079, -61.875
+
+

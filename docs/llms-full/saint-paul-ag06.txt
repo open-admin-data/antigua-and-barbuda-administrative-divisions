@@ -1,0 +1,109 @@
+# Saint Paul — Antigua and Barbuda Administrative Divisions
+
+> 20 localitys
+> Code: AG06
+> Coordinates: 17.036, -61.759
+> Last updated: 2026-07-09. License: CC-BY-4.0.
+
+## Localitys
+
+### Antigua Island
+
+Code: AG06L004, Coordinates: 17.05, -61.8
+
+
+### Bats Cave
+
+Code: AG06L013, Coordinates: 17.017, -61.75
+
+
+### Bethesda
+
+Code: AG06L008, Coordinates: 17.043, -61.751
+
+
+### Burkes
+
+Code: AG06L017, Coordinates: 17.06, -61.784
+
+
+### Christian Hill
+
+Code: AG06L012, Coordinates: 17.035, -61.751
+
+
+### Cobbs Cross
+
+Code: AG06L018, Coordinates: 17.024, -61.766
+
+
+### English Harbour Town
+
+Code: AG06L003, Coordinates: 17.017, -61.767
+
+
+### Falmouth
+
+Code: AG06L020, Coordinates: 17.027, -61.781
+
+
+### Ffryes
+
+Code: AG06L011, Coordinates: 17.055, -61.731
+
+
+### Lavingtons
+
+Code: AG06L001, Coordinates: 17.015, -61.733
+
+
+### Liberta
+
+Code: AG06L005, Coordinates: 17.033, -61.783
+
+
+### Lower Lyons
+
+Code: AG06L019, Coordinates: 17.044, -61.736
+
+
+### Matthews
+
+Code: AG06L016, Coordinates: 17.058, -61.795
+
+
+### Morris Loobys
+
+Code: AG06L014, Coordinates: 17.05, -61.759
+
+
+### Mount William
+
+Code: AG06L010, Coordinates: 17.039, -61.791
+
+
+### Pattersons
+
+Code: AG06L007, Coordinates: 17.024, -61.788
+
+
+### Pattersons Dwelling House
+
+Code: AG06L006, Coordinates: 17.033, -61.783
+
+
+### Swetes
+
+Code: AG06L002, Coordinates: 17.05, -61.8
+
+
+### Table Hill Gordon
+
+Code: AG06L015, Coordinates: 17.043, -61.78
+
+
+### Willis Freemans
+
+Code: AG06L009, Coordinates: 17.05, -61.779
+
+

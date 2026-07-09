@@ -1,0 +1,45 @@
+{
+  "id": "AG07L024",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ebenezer",
+    "en": "Ebenezer",
+    "slug": "ebenezer-ag07l024"
+  },
+  "code": {
+    "id": "AG07L024",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG07",
+    "level": 1,
+    "name": {
+      "local": "Saint Mary",
+      "en": "Saint Mary",
+      "slug": "saint-mary-ag07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.083",
+    "lon": "-61.859"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AG07L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cades Bay",
+    "en": "Cades Bay",
+    "slug": "cades-bay-ag07l001"
+  },
+  "code": {
+    "id": "AG07L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG07",
+    "level": 1,
+    "name": {
+      "local": "Saint Mary",
+      "en": "Saint Mary",
+      "slug": "saint-mary-ag07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.017",
+    "lon": "-61.843"
+  },
+  "metadata": {},
+  "source": {}
+}

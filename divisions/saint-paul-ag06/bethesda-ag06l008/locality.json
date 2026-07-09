@@ -1,0 +1,45 @@
+{
+  "id": "AG06L008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bethesda",
+    "en": "Bethesda",
+    "slug": "bethesda-ag06l008"
+  },
+  "code": {
+    "id": "AG06L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG06",
+    "level": 1,
+    "name": {
+      "local": "Saint Paul",
+      "en": "Saint Paul",
+      "slug": "saint-paul-ag06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.043",
+    "lon": "-61.751"
+  },
+  "metadata": {},
+  "source": {}
+}

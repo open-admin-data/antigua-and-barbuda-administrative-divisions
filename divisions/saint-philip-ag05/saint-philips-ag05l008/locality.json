@@ -1,0 +1,45 @@
+{
+  "id": "AG05L008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Saint Philips",
+    "en": "Saint Philips",
+    "slug": "saint-philips-ag05l008"
+  },
+  "code": {
+    "id": "AG05L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG05",
+    "level": 1,
+    "name": {
+      "local": "Saint Philip",
+      "en": "Saint Philip",
+      "slug": "saint-philip-ag05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.046",
+    "lon": "-61.724"
+  },
+  "metadata": {},
+  "source": {}
+}

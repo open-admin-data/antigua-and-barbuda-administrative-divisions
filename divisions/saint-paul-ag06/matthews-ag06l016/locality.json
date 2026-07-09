@@ -1,0 +1,45 @@
+{
+  "id": "AG06L016",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Matthews",
+    "en": "Matthews",
+    "slug": "matthews-ag06l016"
+  },
+  "code": {
+    "id": "AG06L016",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG06",
+    "level": 1,
+    "name": {
+      "local": "Saint Paul",
+      "en": "Saint Paul",
+      "slug": "saint-paul-ag06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.058",
+    "lon": "-61.795"
+  },
+  "metadata": {},
+  "source": {}
+}

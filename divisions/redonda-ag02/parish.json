@@ -1,0 +1,33 @@
+{
+  "id": "AG02",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Redonda",
+    "en": "Redonda",
+    "slug": "redonda-ag02"
+  },
+  "code": {
+    "id": "AG02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.936",
+    "lon": "-62.345"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ag/parishes/redonda-ag02/",
+    "api": "https://openadmindata.org/api/ag/"
+  }
+}

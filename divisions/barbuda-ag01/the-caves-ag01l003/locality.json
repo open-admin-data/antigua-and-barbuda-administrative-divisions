@@ -1,0 +1,45 @@
+{
+  "id": "AG01L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "The Caves",
+    "en": "The Caves",
+    "slug": "the-caves-ag01l003"
+  },
+  "code": {
+    "id": "AG01L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG01",
+    "level": 1,
+    "name": {
+      "local": "Barbuda",
+      "en": "Barbuda",
+      "slug": "barbuda-ag01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG01",
+      "level": 1,
+      "name": {
+        "local": "Barbuda",
+        "en": "Barbuda",
+        "slug": "barbuda-ag01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.686",
+    "lon": "-61.788"
+  },
+  "metadata": {},
+  "source": {}
+}

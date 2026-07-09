@@ -1,0 +1,45 @@
+{
+  "id": "AG07L008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Harveys",
+    "en": "Harveys",
+    "slug": "harveys-ag07l008"
+  },
+  "code": {
+    "id": "AG07L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG07",
+    "level": 1,
+    "name": {
+      "local": "Saint Mary",
+      "en": "Saint Mary",
+      "slug": "saint-mary-ag07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.033",
+    "lon": "-61.867"
+  },
+  "metadata": {},
+  "source": {}
+}

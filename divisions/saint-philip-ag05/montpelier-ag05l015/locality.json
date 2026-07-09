@@ -1,0 +1,45 @@
+{
+  "id": "AG05L015",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Montpelier",
+    "en": "Montpelier",
+    "slug": "montpelier-ag05l015"
+  },
+  "code": {
+    "id": "AG05L015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG05",
+    "level": 1,
+    "name": {
+      "local": "Saint Philip",
+      "en": "Saint Philip",
+      "slug": "saint-philip-ag05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.051",
+    "lon": "-61.719"
+  },
+  "metadata": {},
+  "source": {}
+}

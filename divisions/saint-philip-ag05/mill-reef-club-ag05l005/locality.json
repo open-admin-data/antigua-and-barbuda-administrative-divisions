@@ -1,0 +1,45 @@
+{
+  "id": "AG05L005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mill Reef Club",
+    "en": "Mill Reef Club",
+    "slug": "mill-reef-club-ag05l005"
+  },
+  "code": {
+    "id": "AG05L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG05",
+    "level": 1,
+    "name": {
+      "local": "Saint Philip",
+      "en": "Saint Philip",
+      "slug": "saint-philip-ag05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.033",
+    "lon": "-61.683"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AG05L014",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "The Brook",
+    "en": "The Brook",
+    "slug": "the-brook-ag05l014"
+  },
+  "code": {
+    "id": "AG05L014",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG05",
+    "level": 1,
+    "name": {
+      "local": "Saint Philip",
+      "en": "Saint Philip",
+      "slug": "saint-philip-ag05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.06",
+    "lon": "-61.681"
+  },
+  "metadata": {},
+  "source": {}
+}

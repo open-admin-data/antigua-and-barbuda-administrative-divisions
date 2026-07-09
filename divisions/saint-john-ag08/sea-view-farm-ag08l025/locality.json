@@ -1,0 +1,45 @@
+{
+  "id": "AG08L025",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sea View Farm",
+    "en": "Sea View Farm",
+    "slug": "sea-view-farm-ag08l025"
+  },
+  "code": {
+    "id": "AG08L025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG08",
+    "level": 1,
+    "name": {
+      "local": "Saint John",
+      "en": "Saint John",
+      "slug": "saint-john-ag08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.088",
+    "lon": "-61.803"
+  },
+  "metadata": {},
+  "source": {}
+}

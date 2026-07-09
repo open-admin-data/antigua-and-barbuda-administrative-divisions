@@ -1,0 +1,767 @@
+[
+  {
+    "id": "AG05L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Comfort Hall",
+      "en": "Comfort Hall",
+      "slug": "comfort-hall-ag05l013"
+    },
+    "code": {
+      "id": "AG05L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.081",
+      "lon": "-61.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freetown",
+      "en": "Freetown",
+      "slug": "freetown-ag05l002"
+    },
+    "code": {
+      "id": "AG05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Glanvilles",
+      "en": "Glanvilles",
+      "slug": "glanvilles-ag05l016"
+    },
+    "code": {
+      "id": "AG05L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.086",
+      "lon": "-61.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grants",
+      "en": "Grants",
+      "slug": "grants-ag05l006"
+    },
+    "code": {
+      "id": "AG05L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.083",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grays",
+      "en": "Grays",
+      "slug": "grays-ag05l010"
+    },
+    "code": {
+      "id": "AG05L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.079",
+      "lon": "-61.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lyons",
+      "en": "Lyons",
+      "slug": "lyons-ag05l017"
+    },
+    "code": {
+      "id": "AG05L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.058",
+      "lon": "-61.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mayers",
+      "en": "Mayers",
+      "slug": "mayers-ag05l009"
+    },
+    "code": {
+      "id": "AG05L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.087",
+      "lon": "-61.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mill Reef Club",
+      "en": "Mill Reef Club",
+      "slug": "mill-reef-club-ag05l005"
+    },
+    "code": {
+      "id": "AG05L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.033",
+      "lon": "-61.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Montpelier",
+      "en": "Montpelier",
+      "slug": "montpelier-ag05l015"
+    },
+    "code": {
+      "id": "AG05L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.051",
+      "lon": "-61.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Newfield",
+      "en": "Newfield",
+      "slug": "newfield-ag05l003"
+    },
+    "code": {
+      "id": "AG05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.057",
+      "lon": "-61.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Philips",
+      "en": "Saint Philips",
+      "slug": "saint-philips-ag05l008"
+    },
+    "code": {
+      "id": "AG05L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.046",
+      "lon": "-61.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sign",
+      "en": "Sign",
+      "slug": "sign-ag05l001"
+    },
+    "code": {
+      "id": "AG05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.101",
+      "lon": "-61.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Spencers",
+      "en": "Spencers",
+      "slug": "spencers-ag05l011"
+    },
+    "code": {
+      "id": "AG05L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.094",
+      "lon": "-61.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Brook",
+      "en": "The Brook",
+      "slug": "the-brook-ag05l014"
+    },
+    "code": {
+      "id": "AG05L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.06",
+      "lon": "-61.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Watsons",
+      "en": "Watsons",
+      "slug": "watsons-ag05l007"
+    },
+    "code": {
+      "id": "AG05L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.055",
+      "lon": "-61.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Willikies",
+      "en": "Willikies",
+      "slug": "willikies-ag05l004"
+    },
+    "code": {
+      "id": "AG05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.087",
+      "lon": "-61.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Willoughby",
+      "en": "Willoughby",
+      "slug": "willoughby-ag05l012"
+    },
+    "code": {
+      "id": "AG05L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.041",
+      "lon": "-61.72"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

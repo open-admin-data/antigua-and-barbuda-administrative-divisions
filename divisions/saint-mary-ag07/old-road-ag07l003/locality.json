@@ -1,0 +1,45 @@
+{
+  "id": "AG07L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Old Road",
+    "en": "Old Road",
+    "slug": "old-road-ag07l003"
+  },
+  "code": {
+    "id": "AG07L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG07",
+    "level": 1,
+    "name": {
+      "local": "Saint Mary",
+      "en": "Saint Mary",
+      "slug": "saint-mary-ag07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.017",
+    "lon": "-61.833"
+  },
+  "metadata": {},
+  "source": {}
+}

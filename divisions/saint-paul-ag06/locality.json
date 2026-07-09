@@ -1,0 +1,902 @@
+[
+  {
+    "id": "AG06L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Antigua Island",
+      "en": "Antigua Island",
+      "slug": "antigua-island-ag06l004"
+    },
+    "code": {
+      "id": "AG06L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bats Cave",
+      "en": "Bats Cave",
+      "slug": "bats-cave-ag06l013"
+    },
+    "code": {
+      "id": "AG06L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.017",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bethesda",
+      "en": "Bethesda",
+      "slug": "bethesda-ag06l008"
+    },
+    "code": {
+      "id": "AG06L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.043",
+      "lon": "-61.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Burkes",
+      "en": "Burkes",
+      "slug": "burkes-ag06l017"
+    },
+    "code": {
+      "id": "AG06L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.06",
+      "lon": "-61.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Christian Hill",
+      "en": "Christian Hill",
+      "slug": "christian-hill-ag06l012"
+    },
+    "code": {
+      "id": "AG06L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.035",
+      "lon": "-61.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cobbs Cross",
+      "en": "Cobbs Cross",
+      "slug": "cobbs-cross-ag06l018"
+    },
+    "code": {
+      "id": "AG06L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.024",
+      "lon": "-61.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "English Harbour Town",
+      "en": "English Harbour Town",
+      "slug": "english-harbour-town-ag06l003"
+    },
+    "code": {
+      "id": "AG06L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.017",
+      "lon": "-61.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Falmouth",
+      "en": "Falmouth",
+      "slug": "falmouth-ag06l020"
+    },
+    "code": {
+      "id": "AG06L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.027",
+      "lon": "-61.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ffryes",
+      "en": "Ffryes",
+      "slug": "ffryes-ag06l011"
+    },
+    "code": {
+      "id": "AG06L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.055",
+      "lon": "-61.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lavingtons",
+      "en": "Lavingtons",
+      "slug": "lavingtons-ag06l001"
+    },
+    "code": {
+      "id": "AG06L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.015",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Liberta",
+      "en": "Liberta",
+      "slug": "liberta-ag06l005"
+    },
+    "code": {
+      "id": "AG06L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.033",
+      "lon": "-61.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lower Lyons",
+      "en": "Lower Lyons",
+      "slug": "lower-lyons-ag06l019"
+    },
+    "code": {
+      "id": "AG06L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.044",
+      "lon": "-61.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Matthews",
+      "en": "Matthews",
+      "slug": "matthews-ag06l016"
+    },
+    "code": {
+      "id": "AG06L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.058",
+      "lon": "-61.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morris Loobys",
+      "en": "Morris Loobys",
+      "slug": "morris-loobys-ag06l014"
+    },
+    "code": {
+      "id": "AG06L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount William",
+      "en": "Mount William",
+      "slug": "mount-william-ag06l010"
+    },
+    "code": {
+      "id": "AG06L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.039",
+      "lon": "-61.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pattersons",
+      "en": "Pattersons",
+      "slug": "pattersons-ag06l007"
+    },
+    "code": {
+      "id": "AG06L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.024",
+      "lon": "-61.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pattersons Dwelling House",
+      "en": "Pattersons Dwelling House",
+      "slug": "pattersons-dwelling-house-ag06l006"
+    },
+    "code": {
+      "id": "AG06L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.033",
+      "lon": "-61.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Swetes",
+      "en": "Swetes",
+      "slug": "swetes-ag06l002"
+    },
+    "code": {
+      "id": "AG06L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Table Hill Gordon",
+      "en": "Table Hill Gordon",
+      "slug": "table-hill-gordon-ag06l015"
+    },
+    "code": {
+      "id": "AG06L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.043",
+      "lon": "-61.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Willis Freemans",
+      "en": "Willis Freemans",
+      "slug": "willis-freemans-ag06l009"
+    },
+    "code": {
+      "id": "AG06L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.779"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

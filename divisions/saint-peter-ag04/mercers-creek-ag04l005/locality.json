@@ -1,0 +1,45 @@
+{
+  "id": "AG04L005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mercers Creek",
+    "en": "Mercers Creek",
+    "slug": "mercers-creek-ag04l005"
+  },
+  "code": {
+    "id": "AG04L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG04",
+    "level": 1,
+    "name": {
+      "local": "Saint Peter",
+      "en": "Saint Peter",
+      "slug": "saint-peter-ag04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.094",
+    "lon": "-61.737"
+  },
+  "metadata": {},
+  "source": {}
+}

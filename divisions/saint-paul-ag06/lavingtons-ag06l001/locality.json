@@ -1,0 +1,45 @@
+{
+  "id": "AG06L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lavingtons",
+    "en": "Lavingtons",
+    "slug": "lavingtons-ag06l001"
+  },
+  "code": {
+    "id": "AG06L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG06",
+    "level": 1,
+    "name": {
+      "local": "Saint Paul",
+      "en": "Saint Paul",
+      "slug": "saint-paul-ag06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.015",
+    "lon": "-61.733"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,10 @@
+# Data from Open Admin Data (https://openadmindata.org/ag/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/antigua-and-barbuda-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.parish,children_count.locality,zip_codes,geo.lat,geo.lon,source_url
+AG01,1,Parish,Parish,Barbuda,Barbuda,barbuda-ag01,AG01,,,,,,3,,17.621,-61.782,https://openadmindata.org/ag/parishes/barbuda-ag01/
+AG02,1,Parish,Parish,Redonda,Redonda,redonda-ag02,AG02,,,,,,0,,16.936,-62.345,https://openadmindata.org/ag/parishes/redonda-ag02/
+AG03,1,Parish,Parish,Saint George,Saint George,saint-george-ag03,AG03,,,,,,9,,17.111,-61.779,https://openadmindata.org/ag/parishes/saint-george-ag03/
+AG04,1,Parish,Parish,Saint Peter,Saint Peter,saint-peter-ag04,AG04,,,,,,14,,17.097,-61.741,https://openadmindata.org/ag/parishes/saint-peter-ag04/
+AG05,1,Parish,Parish,Saint Philip,Saint Philip,saint-philip-ag05,AG05,,,,,,17,,17.06,-61.708,https://openadmindata.org/ag/parishes/saint-philip-ag05/
+AG06,1,Parish,Parish,Saint Paul,Saint Paul,saint-paul-ag06,AG06,,,,,,20,,17.036,-61.759,https://openadmindata.org/ag/parishes/saint-paul-ag06/
+AG07,1,Parish,Parish,Saint Mary,Saint Mary,saint-mary-ag07,AG07,,,,,,24,,17.049,-61.858,https://openadmindata.org/ag/parishes/saint-mary-ag07/
+AG08,1,Parish,Parish,Saint John,Saint John,saint-john-ag08,AG08,,,,,,30,,17.109,-61.825,https://openadmindata.org/ag/parishes/saint-john-ag08/

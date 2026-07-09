@@ -1,0 +1,45 @@
+{
+  "id": "AG03L004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Parham",
+    "en": "Parham",
+    "slug": "parham-ag03l004"
+  },
+  "code": {
+    "id": "AG03L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG03",
+    "level": 1,
+    "name": {
+      "local": "Saint George",
+      "en": "Saint George",
+      "slug": "saint-george-ag03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.097",
+    "lon": "-61.77"
+  },
+  "metadata": {},
+  "source": {}
+}

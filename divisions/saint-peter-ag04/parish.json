@@ -1,0 +1,33 @@
+{
+  "id": "AG04",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint Peter",
+    "en": "Saint Peter",
+    "slug": "saint-peter-ag04"
+  },
+  "code": {
+    "id": "AG04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.097",
+    "lon": "-61.741"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ag/parishes/saint-peter-ag04/",
+    "api": "https://openadmindata.org/api/ag/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "AG07",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint Mary",
+    "en": "Saint Mary",
+    "slug": "saint-mary-ag07"
+  },
+  "code": {
+    "id": "AG07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.049",
+    "lon": "-61.858"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ag/parishes/saint-mary-ag07/",
+    "api": "https://openadmindata.org/api/ag/"
+  }
+}

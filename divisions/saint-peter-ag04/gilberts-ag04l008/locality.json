@@ -1,0 +1,45 @@
+{
+  "id": "AG04L008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Gilberts",
+    "en": "Gilberts",
+    "slug": "gilberts-ag04l008"
+  },
+  "code": {
+    "id": "AG04L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG04",
+    "level": 1,
+    "name": {
+      "local": "Saint Peter",
+      "en": "Saint Peter",
+      "slug": "saint-peter-ag04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.089",
+    "lon": "-61.739"
+  },
+  "metadata": {},
+  "source": {}
+}

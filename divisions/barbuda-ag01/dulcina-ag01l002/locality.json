@@ -1,0 +1,45 @@
+{
+  "id": "AG01L002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dulcina",
+    "en": "Dulcina",
+    "slug": "dulcina-ag01l002"
+  },
+  "code": {
+    "id": "AG01L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG01",
+    "level": 1,
+    "name": {
+      "local": "Barbuda",
+      "en": "Barbuda",
+      "slug": "barbuda-ag01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG01",
+      "level": 1,
+      "name": {
+        "local": "Barbuda",
+        "en": "Barbuda",
+        "slug": "barbuda-ag01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.594",
+    "lon": "-61.827"
+  },
+  "metadata": {},
+  "source": {}
+}

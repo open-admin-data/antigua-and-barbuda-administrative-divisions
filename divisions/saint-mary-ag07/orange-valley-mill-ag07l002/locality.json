@@ -1,0 +1,45 @@
+{
+  "id": "AG07L002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Orange Valley Mill",
+    "en": "Orange Valley Mill",
+    "slug": "orange-valley-mill-ag07l002"
+  },
+  "code": {
+    "id": "AG07L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG07",
+    "level": 1,
+    "name": {
+      "local": "Saint Mary",
+      "en": "Saint Mary",
+      "slug": "saint-mary-ag07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.026",
+    "lon": "-61.875"
+  },
+  "metadata": {},
+  "source": {}
+}

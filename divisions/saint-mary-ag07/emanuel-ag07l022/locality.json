@@ -1,0 +1,45 @@
+{
+  "id": "AG07L022",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Emanuel",
+    "en": "Emanuel",
+    "slug": "emanuel-ag07l022"
+  },
+  "code": {
+    "id": "AG07L022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG07",
+    "level": 1,
+    "name": {
+      "local": "Saint Mary",
+      "en": "Saint Mary",
+      "slug": "saint-mary-ag07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.072",
+    "lon": "-61.837"
+  },
+  "metadata": {},
+  "source": {}
+}

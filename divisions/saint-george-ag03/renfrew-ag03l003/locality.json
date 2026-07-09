@@ -1,0 +1,45 @@
+{
+  "id": "AG03L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Renfrew",
+    "en": "Renfrew",
+    "slug": "renfrew-ag03l003"
+  },
+  "code": {
+    "id": "AG03L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG03",
+    "level": 1,
+    "name": {
+      "local": "Saint George",
+      "en": "Saint George",
+      "slug": "saint-george-ag03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.086",
+    "lon": "-61.789"
+  },
+  "metadata": {},
+  "source": {}
+}

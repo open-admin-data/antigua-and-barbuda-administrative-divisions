@@ -1,0 +1,5267 @@
+[
+  {
+    "id": "AG05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sign",
+      "en": "Sign",
+      "slug": "sign-ag05l001"
+    },
+    "code": {
+      "id": "AG05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.101",
+      "lon": "-61.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cades Bay",
+      "en": "Cades Bay",
+      "slug": "cades-bay-ag07l001"
+    },
+    "code": {
+      "id": "AG07L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.017",
+      "lon": "-61.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG03L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Big Duers",
+      "en": "Big Duers",
+      "slug": "big-duers-ag03l001"
+    },
+    "code": {
+      "id": "AG03L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG03",
+        "level": 1,
+        "name": {
+          "local": "Saint George",
+          "en": "Saint George",
+          "slug": "saint-george-ag03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.077",
+      "lon": "-61.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG03L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Carlisle",
+      "en": "Carlisle",
+      "slug": "carlisle-ag03l002"
+    },
+    "code": {
+      "id": "AG03L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG03",
+        "level": 1,
+        "name": {
+          "local": "Saint George",
+          "en": "Saint George",
+          "slug": "saint-george-ag03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.14",
+      "lon": "-61.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Herberts",
+      "en": "Herberts",
+      "slug": "herberts-ag08l001"
+    },
+    "code": {
+      "id": "AG08L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.075",
+      "lon": "-61.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lavingtons",
+      "en": "Lavingtons",
+      "slug": "lavingtons-ag06l001"
+    },
+    "code": {
+      "id": "AG06L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.015",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Orange Valley Mill",
+      "en": "Orange Valley Mill",
+      "slug": "orange-valley-mill-ag07l002"
+    },
+    "code": {
+      "id": "AG07L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.026",
+      "lon": "-61.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG03L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Renfrew",
+      "en": "Renfrew",
+      "slug": "renfrew-ag03l003"
+    },
+    "code": {
+      "id": "AG03L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG03",
+        "level": 1,
+        "name": {
+          "local": "Saint George",
+          "en": "Saint George",
+          "slug": "saint-george-ag03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.086",
+      "lon": "-61.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Swetes",
+      "en": "Swetes",
+      "slug": "swetes-ag06l002"
+    },
+    "code": {
+      "id": "AG06L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG03L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Parham",
+      "en": "Parham",
+      "slug": "parham-ag03l004"
+    },
+    "code": {
+      "id": "AG03L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG03",
+        "level": 1,
+        "name": {
+          "local": "Saint George",
+          "en": "Saint George",
+          "slug": "saint-george-ag03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.097",
+      "lon": "-61.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Old Road",
+      "en": "Old Road",
+      "slug": "old-road-ag07l003"
+    },
+    "code": {
+      "id": "AG07L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.017",
+      "lon": "-61.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freetown",
+      "en": "Freetown",
+      "slug": "freetown-ag05l002"
+    },
+    "code": {
+      "id": "AG05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "English Harbour Town",
+      "en": "English Harbour Town",
+      "slug": "english-harbour-town-ag06l003"
+    },
+    "code": {
+      "id": "AG06L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.017",
+      "lon": "-61.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Codrington",
+      "en": "Codrington",
+      "slug": "codrington-ag01l001"
+    },
+    "code": {
+      "id": "AG01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG01",
+      "level": 1,
+      "name": {
+        "local": "Barbuda",
+        "en": "Barbuda",
+        "slug": "barbuda-ag01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG01",
+        "level": 1,
+        "name": {
+          "local": "Barbuda",
+          "en": "Barbuda",
+          "slug": "barbuda-ag01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.633",
+      "lon": "-61.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cedar Grove",
+      "en": "Cedar Grove",
+      "slug": "cedar-grove-ag08l002"
+    },
+    "code": {
+      "id": "AG08L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.167",
+      "lon": "-61.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Antigua Island",
+      "en": "Antigua Island",
+      "slug": "antigua-island-ag06l004"
+    },
+    "code": {
+      "id": "AG06L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bolands",
+      "en": "Bolands",
+      "slug": "bolands-ag07l004"
+    },
+    "code": {
+      "id": "AG07L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.066",
+      "lon": "-61.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Potters Village",
+      "en": "Potters Village",
+      "slug": "potters-village-ag08l003"
+    },
+    "code": {
+      "id": "AG08L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.083",
+      "lon": "-61.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "All Saints",
+      "en": "All Saints",
+      "slug": "all-saints-ag08l004"
+    },
+    "code": {
+      "id": "AG08L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.067",
+      "lon": "-61.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Liberta",
+      "en": "Liberta",
+      "slug": "liberta-ag06l005"
+    },
+    "code": {
+      "id": "AG06L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.033",
+      "lon": "-61.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Weatherills",
+      "en": "Weatherills",
+      "slug": "weatherills-ag08l005"
+    },
+    "code": {
+      "id": "AG08L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.165",
+      "lon": "-61.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "New Division",
+      "en": "New Division",
+      "slug": "new-division-ag07l005"
+    },
+    "code": {
+      "id": "AG07L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.089",
+      "lon": "-61.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pattersons Dwelling House",
+      "en": "Pattersons Dwelling House",
+      "slug": "pattersons-dwelling-house-ag06l006"
+    },
+    "code": {
+      "id": "AG06L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.033",
+      "lon": "-61.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cochranes",
+      "en": "Cochranes",
+      "slug": "cochranes-ag04l001"
+    },
+    "code": {
+      "id": "AG04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.083",
+      "lon": "-61.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Golden Grove",
+      "en": "Golden Grove",
+      "slug": "golden-grove-ag08l006"
+    },
+    "code": {
+      "id": "AG08L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.089",
+      "lon": "-61.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pattersons",
+      "en": "Pattersons",
+      "slug": "pattersons-ag06l007"
+    },
+    "code": {
+      "id": "AG06L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.024",
+      "lon": "-61.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Grove",
+      "en": "The Grove",
+      "slug": "the-grove-ag08l007"
+    },
+    "code": {
+      "id": "AG08L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.1",
+      "lon": "-61.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Seatons",
+      "en": "Seatons",
+      "slug": "seatons-ag04l002"
+    },
+    "code": {
+      "id": "AG04L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.094",
+      "lon": "-61.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bethesda",
+      "en": "Bethesda",
+      "slug": "bethesda-ag06l008"
+    },
+    "code": {
+      "id": "AG06L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.043",
+      "lon": "-61.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Willis Freemans",
+      "en": "Willis Freemans",
+      "slug": "willis-freemans-ag06l009"
+    },
+    "code": {
+      "id": "AG06L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Blubber Valley",
+      "en": "Blubber Valley",
+      "slug": "blubber-valley-ag07l006"
+    },
+    "code": {
+      "id": "AG07L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.067",
+      "lon": "-61.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "John Hughes",
+      "en": "John Hughes",
+      "slug": "john-hughes-ag07l007"
+    },
+    "code": {
+      "id": "AG07L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.043",
+      "lon": "-61.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Parrys",
+      "en": "Parrys",
+      "slug": "parrys-ag04l003"
+    },
+    "code": {
+      "id": "AG04L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.074",
+      "lon": "-61.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grays Hill",
+      "en": "Grays Hill",
+      "slug": "grays-hill-ag08l008"
+    },
+    "code": {
+      "id": "AG08L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.106",
+      "lon": "-61.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG01L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dulcina",
+      "en": "Dulcina",
+      "slug": "dulcina-ag01l002"
+    },
+    "code": {
+      "id": "AG01L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG01",
+      "level": 1,
+      "name": {
+        "local": "Barbuda",
+        "en": "Barbuda",
+        "slug": "barbuda-ag01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG01",
+        "level": 1,
+        "name": {
+          "local": "Barbuda",
+          "en": "Barbuda",
+          "slug": "barbuda-ag01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.594",
+      "lon": "-61.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG03L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cedar Valley Mill",
+      "en": "Cedar Valley Mill",
+      "slug": "cedar-valley-mill-ag03l005"
+    },
+    "code": {
+      "id": "AG03L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG03",
+        "level": 1,
+        "name": {
+          "local": "Saint George",
+          "en": "Saint George",
+          "slug": "saint-george-ag03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.133",
+      "lon": "-61.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG01L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Caves",
+      "en": "The Caves",
+      "slug": "the-caves-ag01l003"
+    },
+    "code": {
+      "id": "AG01L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG01",
+      "level": 1,
+      "name": {
+        "local": "Barbuda",
+        "en": "Barbuda",
+        "slug": "barbuda-ag01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG01",
+        "level": 1,
+        "name": {
+          "local": "Barbuda",
+          "en": "Barbuda",
+          "slug": "barbuda-ag01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.686",
+      "lon": "-61.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG03L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Osbourn",
+      "en": "Osbourn",
+      "slug": "osbourn-ag03l006"
+    },
+    "code": {
+      "id": "AG03L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG03",
+        "level": 1,
+        "name": {
+          "local": "Saint George",
+          "en": "Saint George",
+          "slug": "saint-george-ag03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.126",
+      "lon": "-61.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cassada Gardens",
+      "en": "Cassada Gardens",
+      "slug": "cassada-gardens-ag08l009"
+    },
+    "code": {
+      "id": "AG08L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.128",
+      "lon": "-61.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Betty's Hope",
+      "en": "Betty's Hope",
+      "slug": "betty-s-hope-ag04l004"
+    },
+    "code": {
+      "id": "AG04L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.081",
+      "lon": "-61.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount William",
+      "en": "Mount William",
+      "slug": "mount-william-ag06l010"
+    },
+    "code": {
+      "id": "AG06L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.039",
+      "lon": "-61.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Piggotts",
+      "en": "Piggotts",
+      "slug": "piggotts-ag08l010"
+    },
+    "code": {
+      "id": "AG08L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.117",
+      "lon": "-61.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Newfield",
+      "en": "Newfield",
+      "slug": "newfield-ag05l003"
+    },
+    "code": {
+      "id": "AG05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.057",
+      "lon": "-61.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ffryes",
+      "en": "Ffryes",
+      "slug": "ffryes-ag06l011"
+    },
+    "code": {
+      "id": "AG06L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.055",
+      "lon": "-61.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Harveys",
+      "en": "Harveys",
+      "slug": "harveys-ag07l008"
+    },
+    "code": {
+      "id": "AG07L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.033",
+      "lon": "-61.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Crosbies",
+      "en": "Crosbies",
+      "slug": "crosbies-ag08l011"
+    },
+    "code": {
+      "id": "AG08L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.166",
+      "lon": "-61.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bishops",
+      "en": "Bishops",
+      "slug": "bishops-ag07l009"
+    },
+    "code": {
+      "id": "AG07L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.045",
+      "lon": "-61.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Woods",
+      "en": "Woods",
+      "slug": "woods-ag08l012"
+    },
+    "code": {
+      "id": "AG08L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.135",
+      "lon": "-61.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Johnsons Point",
+      "en": "Johnsons Point",
+      "slug": "johnsons-point-ag07l010"
+    },
+    "code": {
+      "id": "AG07L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.03",
+      "lon": "-61.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Creekside",
+      "en": "Creekside",
+      "slug": "creekside-ag07l011"
+    },
+    "code": {
+      "id": "AG07L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.079",
+      "lon": "-61.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hamiltons",
+      "en": "Hamiltons",
+      "slug": "hamiltons-ag08l013"
+    },
+    "code": {
+      "id": "AG08L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Willikies",
+      "en": "Willikies",
+      "slug": "willikies-ag05l004"
+    },
+    "code": {
+      "id": "AG05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.087",
+      "lon": "-61.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mill Reef Club",
+      "en": "Mill Reef Club",
+      "slug": "mill-reef-club-ag05l005"
+    },
+    "code": {
+      "id": "AG05L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.033",
+      "lon": "-61.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Five Islands Village",
+      "en": "Five Islands Village",
+      "slug": "five-islands-village-ag08l014"
+    },
+    "code": {
+      "id": "AG08L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.119",
+      "lon": "-61.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bendals",
+      "en": "Bendals",
+      "slug": "bendals-ag07l012"
+    },
+    "code": {
+      "id": "AG07L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.068",
+      "lon": "-61.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG03L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freemans",
+      "en": "Freemans",
+      "slug": "freemans-ag03l007"
+    },
+    "code": {
+      "id": "AG03L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG03",
+        "level": 1,
+        "name": {
+          "local": "Saint George",
+          "en": "Saint George",
+          "slug": "saint-george-ag03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.079",
+      "lon": "-61.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grants",
+      "en": "Grants",
+      "slug": "grants-ag05l006"
+    },
+    "code": {
+      "id": "AG05L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.083",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mercers Creek",
+      "en": "Mercers Creek",
+      "slug": "mercers-creek-ag04l005"
+    },
+    "code": {
+      "id": "AG04L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.094",
+      "lon": "-61.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Clare Hall",
+      "en": "Clare Hall",
+      "slug": "clare-hall-ag08l015"
+    },
+    "code": {
+      "id": "AG08L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.117",
+      "lon": "-61.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Christian Hill",
+      "en": "Christian Hill",
+      "slug": "christian-hill-ag06l012"
+    },
+    "code": {
+      "id": "AG06L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.035",
+      "lon": "-61.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Urlings",
+      "en": "Urlings",
+      "slug": "urlings-ag07l013"
+    },
+    "code": {
+      "id": "AG07L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.027",
+      "lon": "-61.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Watsons",
+      "en": "Watsons",
+      "slug": "watsons-ag05l007"
+    },
+    "code": {
+      "id": "AG05L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.055",
+      "lon": "-61.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "New Winthorpes",
+      "en": "New Winthorpes",
+      "slug": "new-winthorpes-ag08l016"
+    },
+    "code": {
+      "id": "AG08L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.146",
+      "lon": "-61.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jennings",
+      "en": "Jennings",
+      "slug": "jennings-ag07l014"
+    },
+    "code": {
+      "id": "AG07L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.078",
+      "lon": "-61.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bats Cave",
+      "en": "Bats Cave",
+      "slug": "bats-cave-ag06l013"
+    },
+    "code": {
+      "id": "AG06L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.017",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jolly Harbour",
+      "en": "Jolly Harbour",
+      "slug": "jolly-harbour-ag07l015"
+    },
+    "code": {
+      "id": "AG07L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.066",
+      "lon": "-61.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Diamond",
+      "en": "The Diamond",
+      "slug": "the-diamond-ag04l006"
+    },
+    "code": {
+      "id": "AG04L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.078",
+      "lon": "-61.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG03L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vernons",
+      "en": "Vernons",
+      "slug": "vernons-ag03l008"
+    },
+    "code": {
+      "id": "AG03L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG03",
+        "level": 1,
+        "name": {
+          "local": "Saint George",
+          "en": "Saint George",
+          "slug": "saint-george-ag03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.092",
+      "lon": "-61.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cedar Hall",
+      "en": "Cedar Hall",
+      "slug": "cedar-hall-ag07l016"
+    },
+    "code": {
+      "id": "AG07L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.077",
+      "lon": "-61.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morris Loobys",
+      "en": "Morris Loobys",
+      "slug": "morris-loobys-ag06l014"
+    },
+    "code": {
+      "id": "AG06L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Table Hill Gordon",
+      "en": "Table Hill Gordon",
+      "slug": "table-hill-gordon-ag06l015"
+    },
+    "code": {
+      "id": "AG06L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.043",
+      "lon": "-61.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Philips",
+      "en": "Saint Philips",
+      "slug": "saint-philips-ag05l008"
+    },
+    "code": {
+      "id": "AG05L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.046",
+      "lon": "-61.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mayers",
+      "en": "Mayers",
+      "slug": "mayers-ag05l009"
+    },
+    "code": {
+      "id": "AG05L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.087",
+      "lon": "-61.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Matthews",
+      "en": "Matthews",
+      "slug": "matthews-ag06l016"
+    },
+    "code": {
+      "id": "AG06L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.058",
+      "lon": "-61.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sutherlands Development",
+      "en": "Sutherlands Development",
+      "slug": "sutherlands-development-ag08l017"
+    },
+    "code": {
+      "id": "AG08L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.123",
+      "lon": "-61.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Buckleys",
+      "en": "Buckleys",
+      "slug": "buckleys-ag08l018"
+    },
+    "code": {
+      "id": "AG08L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.072",
+      "lon": "-61.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Delaps",
+      "en": "Delaps",
+      "slug": "delaps-ag04l007"
+    },
+    "code": {
+      "id": "AG04L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.06",
+      "lon": "-61.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gilberts",
+      "en": "Gilberts",
+      "slug": "gilberts-ag04l008"
+    },
+    "code": {
+      "id": "AG04L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.089",
+      "lon": "-61.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Crab Hill",
+      "en": "Crab Hill",
+      "slug": "crab-hill-ag07l017"
+    },
+    "code": {
+      "id": "AG07L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.034",
+      "lon": "-61.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Belmont",
+      "en": "Belmont",
+      "slug": "belmont-ag08l019"
+    },
+    "code": {
+      "id": "AG08L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.1",
+      "lon": "-61.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boon House",
+      "en": "Boon House",
+      "slug": "boon-house-ag08l020"
+    },
+    "code": {
+      "id": "AG08L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.167",
+      "lon": "-61.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Paynters",
+      "en": "Paynters",
+      "slug": "paynters-ag08l021"
+    },
+    "code": {
+      "id": "AG08L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.118",
+      "lon": "-61.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Collins",
+      "en": "Collins",
+      "slug": "collins-ag04l009"
+    },
+    "code": {
+      "id": "AG04L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.076",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gunthorpes",
+      "en": "Gunthorpes",
+      "slug": "gunthorpes-ag08l022"
+    },
+    "code": {
+      "id": "AG08L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.11",
+      "lon": "-61.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grays",
+      "en": "Grays",
+      "slug": "grays-ag05l010"
+    },
+    "code": {
+      "id": "AG05L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.079",
+      "lon": "-61.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Spencers",
+      "en": "Spencers",
+      "slug": "spencers-ag05l011"
+    },
+    "code": {
+      "id": "AG05L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.094",
+      "lon": "-61.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Willoughby",
+      "en": "Willoughby",
+      "slug": "willoughby-ag05l012"
+    },
+    "code": {
+      "id": "AG05L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.041",
+      "lon": "-61.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Burkes",
+      "en": "Burkes",
+      "slug": "burkes-ag06l017"
+    },
+    "code": {
+      "id": "AG06L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.06",
+      "lon": "-61.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Yorks",
+      "en": "Yorks",
+      "slug": "yorks-ag07l018"
+    },
+    "code": {
+      "id": "AG07L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.079",
+      "lon": "-61.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Barnes Hill",
+      "en": "Barnes Hill",
+      "slug": "barnes-hill-ag08l023"
+    },
+    "code": {
+      "id": "AG08L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.142",
+      "lon": "-61.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Little Duers",
+      "en": "Little Duers",
+      "slug": "little-duers-ag04l010"
+    },
+    "code": {
+      "id": "AG04L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.069",
+      "lon": "-61.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Johnston Village",
+      "en": "Saint Johnston Village",
+      "slug": "saint-johnston-village-ag08l024"
+    },
+    "code": {
+      "id": "AG08L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.119",
+      "lon": "-61.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Comfort Hall",
+      "en": "Comfort Hall",
+      "slug": "comfort-hall-ag05l013"
+    },
+    "code": {
+      "id": "AG05L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.081",
+      "lon": "-61.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L025",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sea View Farm",
+      "en": "Sea View Farm",
+      "slug": "sea-view-farm-ag08l025"
+    },
+    "code": {
+      "id": "AG08L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.088",
+      "lon": "-61.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG03L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fitches Creek",
+      "en": "Fitches Creek",
+      "slug": "fitches-creek-ag03l009"
+    },
+    "code": {
+      "id": "AG03L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG03",
+      "level": 1,
+      "name": {
+        "local": "Saint George",
+        "en": "Saint George",
+        "slug": "saint-george-ag03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG03",
+        "level": 1,
+        "name": {
+          "local": "Saint George",
+          "en": "Saint George",
+          "slug": "saint-george-ag03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.124",
+      "lon": "-61.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sawcolts",
+      "en": "Sawcolts",
+      "slug": "sawcolts-ag07l019"
+    },
+    "code": {
+      "id": "AG07L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Lukes",
+      "en": "Saint Lukes",
+      "slug": "saint-lukes-ag07l020"
+    },
+    "code": {
+      "id": "AG07L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.079",
+      "lon": "-61.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Brook",
+      "en": "The Brook",
+      "slug": "the-brook-ag05l014"
+    },
+    "code": {
+      "id": "AG05L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.06",
+      "lon": "-61.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Garden",
+      "en": "The Garden",
+      "slug": "the-garden-ag04l011"
+    },
+    "code": {
+      "id": "AG04L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.071",
+      "lon": "-61.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L026",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aberdeen",
+      "en": "Aberdeen",
+      "slug": "aberdeen-ag08l026"
+    },
+    "code": {
+      "id": "AG08L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.07",
+      "lon": "-61.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L027",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freemans Village",
+      "en": "Freemans Village",
+      "slug": "freemans-village-ag08l027"
+    },
+    "code": {
+      "id": "AG08L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.08",
+      "lon": "-61.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Montpelier",
+      "en": "Montpelier",
+      "slug": "montpelier-ag05l015"
+    },
+    "code": {
+      "id": "AG05L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.051",
+      "lon": "-61.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guadeloupe",
+      "en": "Guadeloupe",
+      "slug": "guadeloupe-ag07l021"
+    },
+    "code": {
+      "id": "AG07L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.996",
+      "lon": "-62.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Emanuel",
+      "en": "Emanuel",
+      "slug": "emanuel-ag07l022"
+    },
+    "code": {
+      "id": "AG07L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.072",
+      "lon": "-61.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Glanvilles",
+      "en": "Glanvilles",
+      "slug": "glanvilles-ag05l016"
+    },
+    "code": {
+      "id": "AG05L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.086",
+      "lon": "-61.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Coconut Hall",
+      "en": "Coconut Hall",
+      "slug": "coconut-hall-ag04l012"
+    },
+    "code": {
+      "id": "AG04L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.11",
+      "lon": "-61.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cobbs Cross",
+      "en": "Cobbs Cross",
+      "slug": "cobbs-cross-ag06l018"
+    },
+    "code": {
+      "id": "AG06L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.024",
+      "lon": "-61.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L028",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Branns Hamlet",
+      "en": "Branns Hamlet",
+      "slug": "branns-hamlet-ag08l028"
+    },
+    "code": {
+      "id": "AG08L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.104",
+      "lon": "-61.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG05L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lyons",
+      "en": "Lyons",
+      "slug": "lyons-ag05l017"
+    },
+    "code": {
+      "id": "AG05L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG05",
+      "level": 1,
+      "name": {
+        "local": "Saint Philip",
+        "en": "Saint Philip",
+        "slug": "saint-philip-ag05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG05",
+        "level": 1,
+        "name": {
+          "local": "Saint Philip",
+          "en": "Saint Philip",
+          "slug": "saint-philip-ag05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.058",
+      "lon": "-61.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pares",
+      "en": "Pares",
+      "slug": "pares-ag04l013"
+    },
+    "code": {
+      "id": "AG04L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.085",
+      "lon": "-61.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Claremont",
+      "en": "Claremont",
+      "slug": "claremont-ag07l023"
+    },
+    "code": {
+      "id": "AG07L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.025",
+      "lon": "-61.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lower Lyons",
+      "en": "Lower Lyons",
+      "slug": "lower-lyons-ag06l019"
+    },
+    "code": {
+      "id": "AG06L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.044",
+      "lon": "-61.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ebenezer",
+      "en": "Ebenezer",
+      "slug": "ebenezer-ag07l024"
+    },
+    "code": {
+      "id": "AG07L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.083",
+      "lon": "-61.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L029",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Seaforths",
+      "en": "Seaforths",
+      "slug": "seaforths-ag08l029"
+    },
+    "code": {
+      "id": "AG08L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.094",
+      "lon": "-61.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG08L030",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tomlinson",
+      "en": "Tomlinson",
+      "slug": "tomlinson-ag08l030"
+    },
+    "code": {
+      "id": "AG08L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG08",
+        "level": 1,
+        "name": {
+          "local": "Saint John",
+          "en": "Saint John",
+          "slug": "saint-john-ag08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.113",
+      "lon": "-61.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG06L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Falmouth",
+      "en": "Falmouth",
+      "slug": "falmouth-ag06l020"
+    },
+    "code": {
+      "id": "AG06L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG06",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul",
+        "en": "Saint Paul",
+        "slug": "saint-paul-ag06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG06",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul",
+          "en": "Saint Paul",
+          "slug": "saint-paul-ag06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.027",
+      "lon": "-61.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG04L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Long Lane",
+      "en": "Long Lane",
+      "slug": "long-lane-ag04l014"
+    },
+    "code": {
+      "id": "AG04L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG04",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter",
+        "en": "Saint Peter",
+        "slug": "saint-peter-ag04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG04",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter",
+          "en": "Saint Peter",
+          "slug": "saint-peter-ag04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.067",
+      "lon": "-61.742"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

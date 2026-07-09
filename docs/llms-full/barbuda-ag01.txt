@@ -1,0 +1,24 @@
+# Barbuda — Antigua and Barbuda Administrative Divisions
+
+> 3 localitys
+> Code: AG01
+> Coordinates: 17.621, -61.782
+> Last updated: 2026-07-09. License: CC-BY-4.0.
+
+## Localitys
+
+### Codrington
+
+Code: AG01L001, Coordinates: 17.633, -61.833
+
+
+### Dulcina
+
+Code: AG01L002, Coordinates: 17.594, -61.827
+
+
+### The Caves
+
+Code: AG01L003, Coordinates: 17.686, -61.788
+
+

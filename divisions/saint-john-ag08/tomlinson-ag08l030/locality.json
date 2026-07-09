@@ -1,0 +1,45 @@
+{
+  "id": "AG08L030",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Tomlinson",
+    "en": "Tomlinson",
+    "slug": "tomlinson-ag08l030"
+  },
+  "code": {
+    "id": "AG08L030",
+    "iso": null
+  },
+  "parent": {
+    "id": "AG08",
+    "level": 1,
+    "name": {
+      "local": "Saint John",
+      "en": "Saint John",
+      "slug": "saint-john-ag08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AG08",
+      "level": 1,
+      "name": {
+        "local": "Saint John",
+        "en": "Saint John",
+        "slug": "saint-john-ag08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.113",
+    "lon": "-61.808"
+  },
+  "metadata": {},
+  "source": {}
+}

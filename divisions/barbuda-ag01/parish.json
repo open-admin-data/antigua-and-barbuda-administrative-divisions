@@ -1,0 +1,33 @@
+{
+  "id": "AG01",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Barbuda",
+    "en": "Barbuda",
+    "slug": "barbuda-ag01"
+  },
+  "code": {
+    "id": "AG01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.621",
+    "lon": "-61.782"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ag/parishes/barbuda-ag01/",
+    "api": "https://openadmindata.org/api/ag/"
+  }
+}

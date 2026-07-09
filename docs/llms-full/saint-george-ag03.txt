@@ -1,0 +1,54 @@
+# Saint George — Antigua and Barbuda Administrative Divisions
+
+> 9 localitys
+> Code: AG03
+> Coordinates: 17.111, -61.779
+> Last updated: 2026-07-09. License: CC-BY-4.0.
+
+## Localitys
+
+### Big Duers
+
+Code: AG03L001, Coordinates: 17.077, -61.781
+
+
+### Carlisle
+
+Code: AG03L002, Coordinates: 17.14, -61.787
+
+
+### Cedar Valley Mill
+
+Code: AG03L005, Coordinates: 17.133, -61.8
+
+
+### Fitches Creek
+
+Code: AG03L009, Coordinates: 17.124, -61.795
+
+
+### Freemans
+
+Code: AG03L007, Coordinates: 17.079, -61.786
+
+
+### Osbourn
+
+Code: AG03L006, Coordinates: 17.126, -61.804
+
+
+### Parham
+
+Code: AG03L004, Coordinates: 17.097, -61.77
+
+
+### Renfrew
+
+Code: AG03L003, Coordinates: 17.086, -61.789
+
+
+### Vernons
+
+Code: AG03L008, Coordinates: 17.092, -61.771
+
+

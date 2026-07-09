@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "AG07L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bendals",
+      "en": "Bendals",
+      "slug": "bendals-ag07l012"
+    },
+    "code": {
+      "id": "AG07L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.068",
+      "lon": "-61.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bishops",
+      "en": "Bishops",
+      "slug": "bishops-ag07l009"
+    },
+    "code": {
+      "id": "AG07L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.045",
+      "lon": "-61.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Blubber Valley",
+      "en": "Blubber Valley",
+      "slug": "blubber-valley-ag07l006"
+    },
+    "code": {
+      "id": "AG07L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.067",
+      "lon": "-61.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bolands",
+      "en": "Bolands",
+      "slug": "bolands-ag07l004"
+    },
+    "code": {
+      "id": "AG07L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.066",
+      "lon": "-61.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cades Bay",
+      "en": "Cades Bay",
+      "slug": "cades-bay-ag07l001"
+    },
+    "code": {
+      "id": "AG07L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.017",
+      "lon": "-61.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cedar Hall",
+      "en": "Cedar Hall",
+      "slug": "cedar-hall-ag07l016"
+    },
+    "code": {
+      "id": "AG07L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.077",
+      "lon": "-61.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Claremont",
+      "en": "Claremont",
+      "slug": "claremont-ag07l023"
+    },
+    "code": {
+      "id": "AG07L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.025",
+      "lon": "-61.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Crab Hill",
+      "en": "Crab Hill",
+      "slug": "crab-hill-ag07l017"
+    },
+    "code": {
+      "id": "AG07L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.034",
+      "lon": "-61.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Creekside",
+      "en": "Creekside",
+      "slug": "creekside-ag07l011"
+    },
+    "code": {
+      "id": "AG07L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.079",
+      "lon": "-61.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ebenezer",
+      "en": "Ebenezer",
+      "slug": "ebenezer-ag07l024"
+    },
+    "code": {
+      "id": "AG07L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.083",
+      "lon": "-61.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Emanuel",
+      "en": "Emanuel",
+      "slug": "emanuel-ag07l022"
+    },
+    "code": {
+      "id": "AG07L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.072",
+      "lon": "-61.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guadeloupe",
+      "en": "Guadeloupe",
+      "slug": "guadeloupe-ag07l021"
+    },
+    "code": {
+      "id": "AG07L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.996",
+      "lon": "-62.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Harveys",
+      "en": "Harveys",
+      "slug": "harveys-ag07l008"
+    },
+    "code": {
+      "id": "AG07L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.033",
+      "lon": "-61.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jennings",
+      "en": "Jennings",
+      "slug": "jennings-ag07l014"
+    },
+    "code": {
+      "id": "AG07L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.078",
+      "lon": "-61.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "John Hughes",
+      "en": "John Hughes",
+      "slug": "john-hughes-ag07l007"
+    },
+    "code": {
+      "id": "AG07L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.043",
+      "lon": "-61.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Johnsons Point",
+      "en": "Johnsons Point",
+      "slug": "johnsons-point-ag07l010"
+    },
+    "code": {
+      "id": "AG07L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.03",
+      "lon": "-61.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jolly Harbour",
+      "en": "Jolly Harbour",
+      "slug": "jolly-harbour-ag07l015"
+    },
+    "code": {
+      "id": "AG07L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.066",
+      "lon": "-61.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "New Division",
+      "en": "New Division",
+      "slug": "new-division-ag07l005"
+    },
+    "code": {
+      "id": "AG07L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.089",
+      "lon": "-61.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Old Road",
+      "en": "Old Road",
+      "slug": "old-road-ag07l003"
+    },
+    "code": {
+      "id": "AG07L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.017",
+      "lon": "-61.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Orange Valley Mill",
+      "en": "Orange Valley Mill",
+      "slug": "orange-valley-mill-ag07l002"
+    },
+    "code": {
+      "id": "AG07L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.026",
+      "lon": "-61.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Lukes",
+      "en": "Saint Lukes",
+      "slug": "saint-lukes-ag07l020"
+    },
+    "code": {
+      "id": "AG07L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.079",
+      "lon": "-61.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sawcolts",
+      "en": "Sawcolts",
+      "slug": "sawcolts-ag07l019"
+    },
+    "code": {
+      "id": "AG07L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.05",
+      "lon": "-61.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Urlings",
+      "en": "Urlings",
+      "slug": "urlings-ag07l013"
+    },
+    "code": {
+      "id": "AG07L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.027",
+      "lon": "-61.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AG07L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Yorks",
+      "en": "Yorks",
+      "slug": "yorks-ag07l018"
+    },
+    "code": {
+      "id": "AG07L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AG07",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary",
+        "en": "Saint Mary",
+        "slug": "saint-mary-ag07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AG07",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary",
+          "en": "Saint Mary",
+          "slug": "saint-mary-ag07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.079",
+      "lon": "-61.875"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

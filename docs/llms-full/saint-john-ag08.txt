@@ -1,0 +1,159 @@
+# Saint John — Antigua and Barbuda Administrative Divisions
+
+> 30 localitys
+> Code: AG08
+> Coordinates: 17.109, -61.825
+> Last updated: 2026-07-09. License: CC-BY-4.0.
+
+## Localitys
+
+### Aberdeen
+
+Code: AG08L026, Coordinates: 17.07, -61.81
+
+
+### All Saints
+
+Code: AG08L004, Coordinates: 17.067, -61.793
+
+
+### Barnes Hill
+
+Code: AG08L023, Coordinates: 17.142, -61.808
+
+
+### Belmont
+
+Code: AG08L019, Coordinates: 17.1, -61.826
+
+
+### Boon House
+
+Code: AG08L020, Coordinates: 17.167, -61.833
+
+
+### Branns Hamlet
+
+Code: AG08L028, Coordinates: 17.104, -61.836
+
+
+### Buckleys
+
+Code: AG08L018, Coordinates: 17.072, -61.813
+
+
+### Cassada Gardens
+
+Code: AG08L009, Coordinates: 17.128, -61.811
+
+
+### Cedar Grove
+
+Code: AG08L002, Coordinates: 17.167, -61.817
+
+
+### Clare Hall
+
+Code: AG08L015, Coordinates: 17.117, -61.817
+
+
+### Crosbies
+
+Code: AG08L011, Coordinates: 17.166, -61.824
+
+
+### Five Islands Village
+
+Code: AG08L014, Coordinates: 17.119, -61.884
+
+
+### Freemans Village
+
+Code: AG08L027, Coordinates: 17.08, -61.793
+
+
+### Golden Grove
+
+Code: AG08L006, Coordinates: 17.089, -61.847
+
+
+### Grays Hill
+
+Code: AG08L008, Coordinates: 17.106, -61.847
+
+
+### Gunthorpes
+
+Code: AG08L022, Coordinates: 17.11, -61.8
+
+
+### Hamiltons
+
+Code: AG08L013, Coordinates: 17.05, -61.833
+
+
+### Herberts
+
+Code: AG08L001, Coordinates: 17.075, -61.799
+
+
+### New Winthorpes
+
+Code: AG08L016, Coordinates: 17.146, -61.813
+
+
+### Paynters
+
+Code: AG08L021, Coordinates: 17.118, -61.807
+
+
+### Piggotts
+
+Code: AG08L010, Coordinates: 17.117, -61.8
+
+
+### Potters Village
+
+Code: AG08L003, Coordinates: 17.083, -61.817
+
+
+### Saint Johnston Village
+
+Code: AG08L024, Coordinates: 17.119, -61.827
+
+
+### Sea View Farm
+
+Code: AG08L025, Coordinates: 17.088, -61.803
+
+
+### Seaforths
+
+Code: AG08L029, Coordinates: 17.094, -61.864
+
+
+### Sutherlands Development
+
+Code: AG08L017, Coordinates: 17.123, -61.829
+
+
+### The Grove
+
+Code: AG08L007, Coordinates: 17.1, -61.8
+
+
+### Tomlinson
+
+Code: AG08L030, Coordinates: 17.113, -61.808
+
+
+### Weatherills
+
+Code: AG08L005, Coordinates: 17.165, -61.835
+
+
+### Woods
+
+Code: AG08L012, Coordinates: 17.135, -61.826
+
+
