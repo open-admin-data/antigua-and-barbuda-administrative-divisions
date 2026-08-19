@@ -3,7 +3,7 @@
 > 17 localitys
 > Code: AG05
 > Coordinates: 17.06, -61.708
-> Last updated: 2026-07-09. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 
