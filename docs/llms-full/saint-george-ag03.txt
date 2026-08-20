@@ -3,7 +3,7 @@
 > 9 localitys
 > Code: AG03
 > Coordinates: 17.111, -61.779
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Localitys
 

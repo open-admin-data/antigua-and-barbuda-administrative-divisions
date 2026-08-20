@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/ag](https://openadmindata.org/ag/) |
 | API | [openadmindata.org/api/ag](https://openadmindata.org/api/ag/) |
+| Flag | [PNG](https://onlygames.me/flags-png/ag/) · [SVG](https://onlygames.me/flags-svg/ag/) · [PDF](https://onlygames.me/flags-pdf/ag/) |
 | National Anthem | [🎵 Listen & Download Antigua and Barbuda National Anthem MP3](https://onlygames.me/national-anthems/ag/) |
 
 ## Browse by Parish
