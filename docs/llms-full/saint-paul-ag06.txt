@@ -3,7 +3,7 @@
 > 20 localitys
 > Code: AG06
 > Coordinates: 17.036, -61.759
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Localitys
 
